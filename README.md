@@ -4,4 +4,8 @@
 <p>The goal is to test Git</p>
 
 <h3>:scroll: Topics</h3>
-- GitFlow
+* GitFlow
+* GitFlow
+* GitFlow
+* GitFlow
+* GitFlow
