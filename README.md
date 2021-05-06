@@ -4,13 +4,13 @@
 <p>The purpose of the repository is to work using the git flow.</p>
 
 <p align="center">
-    <img src="./src/git_flow.jpg" width="200">
-    <p>Git Flow</p>
+    <img src="./src/git_flow.jpg" width="300">
+    Git Flow
 </p>
 
-<h3>:scroll: Topics</h3>
-* GitFlow
-* GitFlow
-* GitFlow
-* GitFlow
-* GitFlow
+<h3>:scroll: Branch's</h3>
+
+* master
+* develop
+* hotfix
+* release
