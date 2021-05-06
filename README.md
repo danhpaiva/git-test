@@ -10,7 +10,8 @@
 
 <h3>:scroll: Branch's</h3>
 
-* master
+* feature
 * develop
-* hotfix
 * release
+* hotfix
+* master
