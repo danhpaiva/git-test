@@ -4,8 +4,8 @@
 <p>The purpose of the repository is to work using the git flow.</p>
 
 <p align="center">
-    <img src="./src/git_flow.jpg" width="400">
-    Git Flow
+    <img src="./src/git_flow.jpg" width="400"><br>
+    credits image: https://www.flickr.com/photos/appleboy/5488984404
 </p>
 
 <h3>:scroll: Branch's</h3>
