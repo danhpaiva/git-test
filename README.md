@@ -4,7 +4,7 @@
 <p>The purpose of the repository is to work using the git flow.</p>
 
 <p align="center">
-    <img src="./src/git_flow.jpg" width="300">
+    <img src="./src/git_flow.jpg" width="400">
     Git Flow
 </p>
 
