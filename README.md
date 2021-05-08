@@ -15,3 +15,25 @@
 * release
 * hotfix
 * master
+
+<h3>:scroll: Commands in git</h3>
+
+~~~
+git branch MinhaNovaBrach
+~~~
+
+~~~
+git branch -c branchEspecifica MinhaNovaBrach
+~~~
+
+~~~
+git checkout MinhaNovaBrach
+~~~
+
+~~~
+git commit -m "Meu primeiro commit"
+~~~
+
+~~~
+git push -u origin MinhaNovaBrach
+~~~
