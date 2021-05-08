@@ -18,22 +18,32 @@
 
 <h3>:scroll: Commands in git</h3>
 
+Listar branch's:
+~~~
+git branch -a
+~~~
+
+Criar nova branch:
 ~~~
 git branch MinhaNovaBrach
 ~~~
 
+Criar nova branch com base em uma atual:
 ~~~
 git branch -c branchEspecifica MinhaNovaBrach
 ~~~
 
+Mudar para nova branch:
 ~~~
 git checkout MinhaNovaBrach
 ~~~
 
+Fazer commit:
 ~~~
 git commit -m "Meu primeiro commit"
 ~~~
 
+Empurrar repositório para o GitHub:
 ~~~
 git push -u origin MinhaNovaBrach
 ~~~
